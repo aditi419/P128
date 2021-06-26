@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.note{
+    text-align: center;
+    font-size: 13px;
+    color: darkblue;
+}
+
+.welcome{
+    font-size: 20px;
+    font-weight: 500;
+    width: 100%;
+}
+
+.SongBtn{
+    margin-top: 500px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#songName{
+    color: darkblue;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: white;
+}
